@@ -4,7 +4,6 @@
     "jest": true
   },
   "extends": ["airbnb"],
-  "plugins": ["jest"],
   "parser": "babel-eslint",
   "rules": {
     "no-tabs": 0,
