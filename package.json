@@ -14,7 +14,8 @@
     "candles",
     "bitcoin",
     "fetch",
-    "exchange"
+    "exchange",
+    "trading"
   ],
   "author": "Stanislav Locksmith",
   "license": "MIT",
