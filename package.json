@@ -20,7 +20,7 @@
   "author": "Stanislav Locksmith",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.0",
     "request-promise": "^4.2.4"
   },
