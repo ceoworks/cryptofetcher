@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.11",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "request-promise": "^4.2.4"
   },
   "devDependencies": {
